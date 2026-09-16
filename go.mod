@@ -15,8 +15,8 @@ require (
 	cloud.google.com/go/compute/metadata v0.9.0
 	cloud.google.com/go/monitoring v1.30.0
 	cloud.google.com/go/secretmanager v1.21.0
-	cloud.google.com/go/spanner v1.95.0
-	cloud.google.com/go/storage v1.67.0
+	cloud.google.com/go/spanner v1.95.1
+	cloud.google.com/go/storage v1.67.1
 	dario.cat/mergo v1.0.2
 	github.com/Azure/azure-amqp-common-go/v4 v4.2.0
 	github.com/Azure/azure-kusto-go/azkustodata v1.2.2
